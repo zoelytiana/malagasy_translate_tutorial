@@ -28,4 +28,7 @@ Python programs are interpreted (they don't need to be compiled). You can execut
 I recommend using *Notepad++* for editing files under windows.
 
 ## Exercises in this project:
-1. Simple calculator program `calculator.py`. 
+1. Run script `1_os_operations.py`. Open it in an editor and follow the instructions in the commetary of the file.
+2. Same for `2_calculator.py`
+3. `3_file_io.py`
+4. `4_translator.py`
