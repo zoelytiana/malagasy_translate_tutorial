@@ -1,6 +1,6 @@
 # malagasy_translate_tutorial
 
-This is a simple python tutorial to practice using dictionaries/JSON objects by creating a simple program which translates basic phrases between English and Malagasy.
+This is a simple python tutorial to practice using dictionaries/JSON objects by creating a simple program which translates basic words between English and Malagasy.
 
 It also contains some warm-up exercises.
 
@@ -10,6 +10,7 @@ Please *fork* this project. *Forking* is a special feature of GitHub allowing to
 
 >> Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 
+**You will encounter a lot of challanges. Create issues in the original repository https://github.com/mixmixmix/malagasy_translate_tutorial/issues to ask for help. Post your error messages or problems. We will practice python and online collaboration!**
 ## Using python under windows
 ### Setup and install
 Simple way to get python installed and configured is a data science platform Anaconda, available at https://www.continuum.io/downloads. It is recommended to use python in version 3.
@@ -32,3 +33,5 @@ I recommend using *Notepad++* for editing files under windows.
 2. Same for `2_calculator.py`
 3. `3_file_io.py`
 4. `4_translator.py`
+
+
