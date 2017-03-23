@@ -10,7 +10,11 @@ Please *fork* this project. *Forking* is a special feature of GitHub allowing to
 
 >> Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
 
+#### Important!
 **You will encounter a lot of challanges. Create issues in the original repository https://github.com/mixmixmix/malagasy_translate_tutorial/issues to ask for help. Post your error messages or problems. We will practice python and online collaboration!**
+
+#### Hint: You can create a jupyter notebook in the repository to try pices of code before trying it in the program!
+
 ## Using python under windows
 ### Setup and install
 Simple way to get python installed and configured is a data science platform Anaconda, available at https://www.continuum.io/downloads. It is recommended to use python in version 3.
