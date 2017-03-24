@@ -23,9 +23,10 @@ def mul_two_numbers(x,y):
 
 def div_two_numbers(x,y):
     """ division two numbers """
-    if y == "0":
+    if y == 0:
         return "division by 0"
-    return x / y
+    else:
+        return x / y
 
 #Greeting
 print("Hello! This is a simple program for simple calculations")
