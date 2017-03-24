@@ -25,8 +25,8 @@ print("What would you like to do today?")
 doToday = "add" #HACK
 print("We will " + doToday + " two numbers now.")
 
-var1 = input("First number: ")
-var2 = input("Second number: ")
+var1 = int(input("First number: "))
+var2 = int(input("Second number: "))
 
 if doToday=="add":
     result = add_two_numbers(var1, var2)
